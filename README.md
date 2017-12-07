@@ -1,0 +1,2 @@
+# WJTZImageManager
+基于TZImagePickerController二次封装，方便使用
